@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cec7e72a-4de0-4608-a18c-bfd004338a0d" name="Default Changelist" comment="" />
+    <list default="true" id="cec7e72a-4de0-4608-a18c-bfd004338a0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/commonfunctions/CommonFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/commonfunctions/CommonFunctions.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,14 +170,14 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="570" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581707541635" />
-    <state x="467" y="28" key="CommitChangelistDialog2" timestamp="1584845185722">
+    <state x="467" y="28" key="CommitChangelistDialog2" timestamp="1584845844399">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="467" y="28" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1584845185722" />
-    <state x="802" y="159" key="FileChooserDialogImpl" timestamp="1584845063241">
+    <state x="467" y="28" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1584845844399" />
+    <state x="802" y="159" key="FileChooserDialogImpl" timestamp="1584845830817">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="802" y="159" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584845063241" />
+    <state x="802" y="159" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584845830817" />
     <state x="842" y="187" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1581624534794" />
     <state width="1637" height="335" key="GridCell.Tab.0.bottom" timestamp="1581714496844">
       <screen x="0" y="0" width="1680" height="1010" />
@@ -204,6 +208,10 @@
     </state>
     <state x="522" y="283" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584839460251" />
     <state x="548" y="332" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582779486045" />
+    <state x="515" y="233" key="git4idea.merge.GitPullDialog" timestamp="1584845852763">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="515" y="233" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1584845852763" />
     <state x="365" y="117" key="new project wizard" timestamp="1583275998697">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
