@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a7d4b78-bdea-46ee-b9df-0572d59f68a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzOoxuISg8S5LtoHgPq9I6hIXD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a7d4b78-bdea-46ee-b9df-0572d59f68a4" name="Default Changelist" comment="" />
+      <created>1580149135404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580149135404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="91" key="#Project_Structure" timestamp="1580224231859">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="91" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1580224231859" />
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580159477360">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1580159477360" />
+    <state x="347" y="102" key="Maven.ArtifactSearchDialog" timestamp="1580233774106">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="330" y="87" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1580159760343" />
+    <state x="347" y="102" key="Maven.ArtifactSearchDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1580233774106" />
+    <state x="318" y="88" key="SettingsEditor" timestamp="1580169020526">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="303" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1580159447484" />
+    <state x="318" y="88" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1580169020526" />
+    <state x="222" y="212" key="new project wizard" timestamp="1580320893240">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="222" y="212" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1580320893240" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1580159486568">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1580159486568" />
+  </component>
+</project>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cec7e72a-4de0-4608-a18c-bfd004338a0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="220" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xlbkydw3dR0SxDsA8xIMkaim1b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pageobjects" />
+      <recent name="commonfunctions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.&lt;default&gt; (2)">
+    <configuration name="Test_Pending_Leave_Request" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenHRMApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Test_Pending_Leave_Request" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Pending_Leave_Request.verifyPendingLeaveRequests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenHRMApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.Test_Pending_Leave_Request" />
+      <option name="METHOD_NAME" value="verifyPendingLeaveRequests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenHRMApplication" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt; (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenHRMApplication" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenHRMApplication" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt; (2)" />
+        <item itemvalue="TestNG.Test_Pending_Leave_Request.verifyPendingLeaveRequests" />
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.Test_Pending_Leave_Request" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cec7e72a-4de0-4608-a18c-bfd004338a0d" name="Default Changelist" comment="" />
+      <created>1581623774464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581623774464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="91" key="#Project_Structure" timestamp="1584652706993">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="91" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1584652706993" />
+    <state x="1013" y="187" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581714605439">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1013" y="187" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581714605439" />
+    <state x="570" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581707541635">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581707541635" />
+    <state x="467" y="28" key="CommitChangelistDialog2" timestamp="1584845185722">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="467" y="28" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1584845185722" />
+    <state x="802" y="159" key="FileChooserDialogImpl" timestamp="1584845063241">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="802" y="159" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584845063241" />
+    <state x="842" y="187" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1581624534794" />
+    <state width="1637" height="335" key="GridCell.Tab.0.bottom" timestamp="1581714496844">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1581714496844" />
+    <state width="1637" height="335" key="GridCell.Tab.0.center" timestamp="1581714496844">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1581714496844" />
+    <state width="1637" height="335" key="GridCell.Tab.0.left" timestamp="1581714496844">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1581714496844" />
+    <state width="1637" height="335" key="GridCell.Tab.0.right" timestamp="1581714496844">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1581714496844" />
+    <state x="740" y="87" key="Maven.ArtifactSearchDialog" timestamp="1581708965703">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="740" y="87" key="Maven.ArtifactSearchDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581708965703" />
+    <state x="303" y="75" key="SettingsEditor" timestamp="1584845066675">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584845066675" />
+    <state x="522" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1584839460251">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="522" y="283" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584839460251" />
+    <state x="548" y="332" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582779486045" />
+    <state x="365" y="117" key="new project wizard" timestamp="1583275998697">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="365" y="117" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1583275998697" />
+    <state x="445" y="137" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1581624562715" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OpenHRMApplication$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1581710379170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/OpenHRMApplication$Test_Pending_Leave_Request.ic" NAME="Test_Pending_Leave_Request Coverage Results" MODIFIED="1581710316345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testcases.*</FILTER>
+    </SUITE>
+  </component>
+</project>
